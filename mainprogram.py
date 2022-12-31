@@ -1,4 +1,4 @@
-print("访问https://github.com/Chenzsabc/PDF_combiner以获得支持信息"
+print("访问https://github.com/Chenzsabc/PDF_combiner以获得支持信息")
 from PyPDF2 import PdfFileReader
 from PyPDF2 import PdfFileWriter
 import os
